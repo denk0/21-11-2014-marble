@@ -304,7 +304,7 @@ body{
 }
 .contacts .contacts__email:before{
 	background: url(../img/icons.png) no-repeat;
-	background-position: 5px -274px;
+	background-position: 4px -274px;
 	left: -10px;
 	top: 6px;
 }
